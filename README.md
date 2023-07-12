@@ -1,1 +1,1 @@
-# HR_Dashboard_PowerBI
+This is HR Dashboard. Here you will be able to analyse the data according to department.
